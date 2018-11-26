@@ -17,7 +17,7 @@ List of links for people to follow what I present at the Airtifical Intelligence
   * You need to add a subscription key from https://azure.microsoft.com/en-us/services/cognitive-services/face/' on Line 12 before the last '
   * Check if your family is happy before you open the door
   * Set the lights and sounds in your house as soon as you reach the door
-  * Use it to play music -> https://codepen.io/saamerm/pen/LXrLqq - Needs improvement
+  * Use it to play music -> https://codepen.io/saamerm/full/OaEjYz/ - Just improved, you need to add a subscription key from https://azure.microsoft.com/en-us/services/cognitive-services/face/' on Line 12 before the last '
   
 * Automatic image generation - https://affinelayer.com/pixsrv/
 
