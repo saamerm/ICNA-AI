@@ -13,7 +13,8 @@ List of links for people to follow what I present at the Airtifical Intelligence
 * Biryani and Not Biryani - https://customvision.ai 
   * Use case include the skin cancer pictures diagnosis - You don't need a diploma
 
-* Age and Emotion checker - https://codepen.io/saamerm/pen/JeZJzw
+* Age and Emotion checker - https://codepen.io/saamerm/pen/JeZJzw 
+  * You need to add a subscription key from https://azure.microsoft.com/en-us/services/cognitive-services/face/' on Line 12 before the last '
   * Check if your family is happy before you open the door
   * Set the lights and sounds in your house as soon as you reach the door
   * Use it to play music -> https://codepen.io/saamerm/pen/LXrLqq - Needs improvement
